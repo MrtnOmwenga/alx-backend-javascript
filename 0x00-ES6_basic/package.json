@@ -1,0 +1,19 @@
+{
+  "name": "0x00-ES6_basic",
+  "version": "1.0.0",
+  "description": "ES6 Basics",
+  "main": "0-main.js",
+    "scripts":{
+	"test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://MrtnOmwenga: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@github.com/MrtnOmwenga/alx-backend-javascript.git"
+  },
+  "author": "Martin Omwenga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrtnOmwenga/alx-backend-javascript/issues"
+  },
+  "homepage": "https://github.com/MrtnOmwenga/alx-backend-javascript#readme"
+}
