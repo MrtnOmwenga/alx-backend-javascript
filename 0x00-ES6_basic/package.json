@@ -1,7 +1,8 @@
 {
   "name": "0x00-ES6_basic",
   "version": "1.0.0",
-  "description": "ES6 Basics",
+    "description": "ES6 Basics",
+    "type": "module",
   "main": "0-main.js",
     "scripts":{
 	"test": "echo \"Error: no test specified\" && exit 1"
