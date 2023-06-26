@@ -1,11 +1,11 @@
 {
   "name": "0x00-ES6_basic",
   "version": "1.0.0",
-    "description": "ES6 Basics",
-    "type": "module",
+  "description": "ES6 Basics",
+  "type": "module",
   "main": "0-main.js",
-    "scripts":{
-	"test": "echo \"Error: no test specified\" && exit 1"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/MrtnOmwenga/alx-backend-javascript/issues"
   },
-  "homepage": "https://github.com/MrtnOmwenga/alx-backend-javascript#readme"
+  "homepage": "https://github.com/MrtnOmwenga/alx-backend-javascript#readme",
+  "devDependencies": {
+    "eslint": "^8.43.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  }
 }
