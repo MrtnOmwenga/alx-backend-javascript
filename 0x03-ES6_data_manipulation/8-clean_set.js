@@ -1,4 +1,4 @@
-const cleanSet = (set, startString) =>  {
+const cleanSet = (set, startString) => {
   const parts = [];
   if (!set || !startString || !(set instanceof Set) || typeof startString !== 'string') {
     return '';
@@ -13,6 +13,6 @@ const cleanSet = (set, startString) =>  {
     }
   }
   return parts.join('-');
-}
+};
 
 export default cleanSet;
