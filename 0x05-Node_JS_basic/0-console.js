@@ -4,7 +4,7 @@
  * @author Bezaleel Olakunori <https://github.com/B3zaleel>
  */
 const displayMessage = (msg) => {
-  process.stdout.write(msg);
+  process.stdout.write(msg+"\n");
 };
 
 module.exports = displayMessage;
